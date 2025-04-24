@@ -25,7 +25,7 @@
 ```diff
 + Ajout de l'option Players
 + Optimisation du Code
-- Réduction de beacoup de Bugs
+- Réduction de beaucoup de Bugs
 ```
 
 ---
