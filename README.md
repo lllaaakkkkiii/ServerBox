@@ -30,5 +30,5 @@
 
 ---
 
-[!Warning]
+[!WARNING]
 > Cette version est une Bêta, de nombreux Bugs peuvent être présent. Si vous en trouvez n'hesitez pas à me le signaler sur mon discord : [**Accéder au Discord**](https://discord.gg/UqpXhG2hqG)
