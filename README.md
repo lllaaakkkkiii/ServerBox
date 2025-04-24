@@ -7,7 +7,7 @@
 
 ## ​📙​ ▪ Documentation
 
-> Une documentation complète sur la configuration du Plugin est disponible juste ici => [**Accéder à la Documentation**]()
+> Une documentation complète sur la configuration du Plugin est disponible juste ici => [**Accéder à la Documentation**](https://github.com/lllaaakkkkiii/ServerInfo/wiki)
 > Elle vous permettra de ne pas vous trompez dans les modifications et personnalisé le Plugin à votre goût.
 
 ---
