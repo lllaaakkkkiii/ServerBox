@@ -30,5 +30,10 @@
 
 ---
 
+> [!IMPORTANT]
+> Ce Plugin est un Plugin Open Source mais il vous est strictement interdit de vous approprié et / ou de vendre le Plugin.
+
+---
+
 > [!WARNING]
 > Cette version est une Bêta, de nombreux Bugs peuvent être présent. Si vous en trouvez n'hesitez pas à me le signaler sur mon discord : [**Accéder au Discord**](https://discord.gg/UqpXhG2hqG)
