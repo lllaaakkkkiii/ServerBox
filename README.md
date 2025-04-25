@@ -1,13 +1,13 @@
-# 📍​ ▪ ServerInfo
+# 📍​ ▪ ServerBox
 
-> ServerInfo est un Plugin Nova Life Open Source permettant d'avoir énormément d'informations sur votre serveur, vos joueurs, vos staffs etc... La spécialité de se Plugin est qu'il est entièrement
+> ServerBox est un Plugin Nova Life Open Source permettant d'avoir énormément d'informations sur votre serveur, vos joueurs, vos staffs etc... La spécialité de se Plugin est qu'il est entièrement
 > personnalisable allant des permissions staffs jusqu'aux couleurs.
 
 ---
 
 ## ​📙​ ▪ Documentation
 
-> Une documentation complète sur la configuration du Plugin est disponible juste ici => [**Accéder à la Documentation**](https://github.com/lllaaakkkkiii/ServerInfo/wiki)
+> Une documentation complète sur la configuration du Plugin est disponible juste ici => [**Accéder à la Documentation**](https://github.com/lllaaakkkkiii/ServerBox/wiki)
 > Elle vous permettra de ne pas vous trompez dans les modifications et personnalisé le Plugin à votre goût.
 
 ---
